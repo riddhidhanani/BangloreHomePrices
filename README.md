@@ -1,7 +1,7 @@
 # BangloreHomePrices
 I have built website for home price prediction for a city of Banglore.
 
-Project Description
+## Project Description:
 This is an end-to-end machine learning project that predicts home prices in Bangalore, India based on various features like square footage, number of bedrooms, and location. The project covers the complete data science pipeline from data cleaning and exploratory analysis to model building and deployment as a web application on AWS EC2.
 
 ## 📸 Preview
