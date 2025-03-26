@@ -8,6 +8,9 @@ This is an end-to-end machine learning project that predicts home prices in Bang
 
 ![App Screenshot](schreenshot.png)
 
+## Dataset
+
+https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data
 
 ## 🛠️ Tech Stack & Tools
 
